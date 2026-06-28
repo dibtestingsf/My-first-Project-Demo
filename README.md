@@ -2,4 +2,4 @@
 
 This is my first project
 <br>
-Author - Dibeyndu Roy
+Author - Dibeyndu Roy(Learning)
